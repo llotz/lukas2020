@@ -8,13 +8,16 @@ const getAllPosts = () =>
 			path.resolve('src/content', fileName),
 			'utf-8'
 		);
-		return grayMatter(post).data;
+		var p = grayMatter(post).data;
+		p.slug = fileName.replace('.md', '');
+		p.localeDate = new Date(p.date).toLocaleDateString('de-DE');
+		return p;
 	});
 
 export function get(req, res) {
 	res.writeHead(200, {
 		'Content-Type': 'application/json',
 	});
-	const posts = getAllPosts();
+	const posts = getAllPosts().sort((a, b) => b.date - a.date);
 	res.end(JSON.stringify(posts));
 }

@@ -1,10 +1,10 @@
 ---
-slug: 'sample-post'
-title: 'sample blog post'
+title: 'Beispielinhalt'
+summary: 'Dieser Blogpost fetzt richtig'
 date: 2020-06-01
 ---
 
-# Sample title
+## Sample title
 
 this is a sample blog post
 
