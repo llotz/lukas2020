@@ -1,6 +1,6 @@
 ---
-title: 'Kauf dir ein Auto'
-summary: 'Denn ohne ein Auto ist das Leben nur halb so schön. Das ist aber eine sehr lange bescheibung'
+title: 'Kauf Dir ein Auto'
+summary: 'Denn ohne ein Auto ist das Leben nur halb so schön. Das ist aber eine sehr lange Bescheibung'
 date: 2020-05-22
 ---
 

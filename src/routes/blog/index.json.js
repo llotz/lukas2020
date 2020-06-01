@@ -11,11 +11,11 @@ const getAllPosts = () =>
 		);
 		var p = grayMatter(post).data;
 		p.slug = fileName.replace('.md', '');
-		p.localeDate = formatDate(new Date(p.date));
+		p.localeDate = formatDate(p.date);
 		return p;
 	});
 
-const formatDate = (date) => moment().format('YYYY-MM-DD');
+const formatDate = (date) => moment(date).format('YYYY-MM-DD');
 
 export function get(req, res) {
 	res.writeHead(200, {

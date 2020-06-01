@@ -23,6 +23,12 @@
   a {
     text-decoration: none;
     display: block;
+    -webkit-transition: all 0.5s;
+    border-left: 10px solid transparent;
+    padding-left: 10px;
+  }
+  a:hover {
+    border-left: 10px solid #ff774a;
   }
 </style>
 
