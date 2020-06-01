@@ -1,9 +1,9 @@
 <style>
   h1,
-  figure,
-  p {
+  figure {
     text-align: center;
     margin: 0 auto;
+    margin: 1em auto;
   }
 
   h1 {
@@ -18,13 +18,13 @@
   }
 
   img {
-    width: 100%;
-    max-width: 400px;
-    margin: 0 0 1em 0;
+    border-radius: 50%;
+    max-width: 150px;
+    margin: 20px;
   }
 
-  p {
-    margin: 1em auto;
+  .center {
+    text-align: center;
   }
 
   @media (min-width: 480px) {
@@ -35,18 +35,17 @@
 </style>
 
 <svelte:head>
-  <title>Sapper project template</title>
+  <title>Lukas Lotz</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<div class="center">
+  <h1>Fetzt!</h1>
 
-<figure>
-  <img alt="Success Kid" src="successkid.jpg" />
-  <figcaption>Have fun with Sapper!</figcaption>
-</figure>
+  <figure>
 
-<p>
-  <strong>
-    Try editing this file (src/routes/index.svelte) to test live reloading.
-  </strong>
-</p>
+    <figcaption>Hi, ich bin Lukas und hier entsteht meine Webseite.</figcaption>
+  </figure>
+
+  <img alt="my beautiful face" src="me.jpg" />
+
+</div>
