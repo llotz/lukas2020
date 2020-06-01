@@ -39,13 +39,23 @@
 </svelte:head>
 
 <div class="center">
+
   <h1>Fetzt!</h1>
 
   <figure>
-
-    <figcaption>Hi, ich bin Lukas und hier entsteht meine Webseite.</figcaption>
+    <figcaption>
+      Grüß dich! Ich bin Lukas und hier entsteht meine Webseite.
+    </figcaption>
   </figure>
 
   <img alt="my beautiful face" src="me.jpg" />
 
+  <p>
+    Ich bin Softwareentwickler aus Leidenschaft. Solang es hier noch keine Infos
+    über mich gibt, schau im
+    <a href="/blog">blog</a>
+    vorbei oder zieh dir
+    <a href="https://www.xing.com/profile/Lukas_Lotz/cv">mein xing-profil</a>
+    rein.
+  </p>
 </div>

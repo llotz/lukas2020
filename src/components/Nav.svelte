@@ -42,9 +42,13 @@
   }
 
   a {
+    color: #adadad;
     text-decoration: none;
     padding: 1em 0.5em;
     display: block;
+  }
+  a:hover {
+    color: #ffffff;
   }
 </style>
 
@@ -52,12 +56,12 @@
   <ul>
     <li>
       <a aria-current={segment === undefined ? 'page' : undefined} href=".">
-        home
+        start
       </a>
     </li>
     <li>
-      <a aria-current={segment === 'about' ? 'page' : undefined} href="about">
-        about
+      <a aria-current={segment === 'links' ? 'page' : undefined} href="links">
+        links
       </a>
     </li>
 

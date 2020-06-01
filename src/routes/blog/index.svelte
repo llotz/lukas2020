@@ -23,9 +23,11 @@
   a {
     text-decoration: none;
     display: block;
+    transition: all 0.5s;
     -webkit-transition: all 0.5s;
     border-left: 10px solid transparent;
     padding-left: 10px;
+    color: #adadad;
   }
   a:hover {
     border-left: 10px solid #ff774a;
@@ -33,7 +35,7 @@
 </style>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>blog</title>
 </svelte:head>
 
 {#each posts as post}
