@@ -20,7 +20,6 @@
   .entry-preview {
     margin-bottom: 30px;
   }
-
   a {
     text-decoration: none;
     display: block;

@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import grayMatter from 'gray-matter';
+import moment from 'moment';
 
 const getAllPosts = () =>
 	fs.readdirSync('src/content').map((fileName) => {
@@ -10,9 +11,11 @@ const getAllPosts = () =>
 		);
 		var p = grayMatter(post).data;
 		p.slug = fileName.replace('.md', '');
-		p.localeDate = new Date(p.date).toLocaleDateString('de-DE');
+		p.localeDate = formatDate(new Date(p.date));
 		return p;
 	});
+
+const formatDate = (date) => moment().format('YYYY-MM-DD');
 
 export function get(req, res) {
 	res.writeHead(200, {
