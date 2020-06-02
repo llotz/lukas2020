@@ -54,13 +54,7 @@
 
 <svelte:head>
   <title>Lukas bloggt - {post.title}</title>
-  <meta name="author" content="Lukas Lotz" />
   <meta name="description" content={post.title} />
-  <meta
-    name="keywords"
-    content="Programmieren, Techblog, Programmierer, persönliches zeug"
-    lang="de" />
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 </svelte:head>
 
 <div class="blog-header">

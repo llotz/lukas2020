@@ -1,13 +1,6 @@
 <svelte:head>
   <title>links</title>
-  <meta name="author" content="Lukas Lotz" />
-  <meta name="description" content="Links" />
-  <meta
-    name="keywords"
-    content="Programmierer, Softwareentwickler, Software Engineer, Links,
-    Nützliches, Linksammlung"
-    lang="de" />
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="description" content="Nützliche Links" />
 </svelte:head>
 
 <figure>

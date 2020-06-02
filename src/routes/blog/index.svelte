@@ -35,7 +35,8 @@
 </style>
 
 <svelte:head>
-  <title>blog</title>
+  <title>Lukas bloggt</title>
+  <meta name="description" content="Lukas' Blog" />
 </svelte:head>
 
 {#each posts as post}

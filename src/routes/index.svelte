@@ -36,15 +36,7 @@
 
 <svelte:head>
   <title>Lukas Lotz</title>
-  <meta http-equiv="expires" content="0" />
-  <meta name="author" content="Lukas Lotz" />
   <meta name="description" content="Meine Webseite" />
-  <meta
-    name="keywords"
-    content="Programmierer, Softwareentwickler, Software Engineer, Lukas Lotz,
-    Homepage, Webseite"
-    lang="de" />
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 </svelte:head>
 
 <div class="center">
