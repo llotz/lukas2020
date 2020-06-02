@@ -16,4 +16,7 @@
     </figcaption>
   </figure>
   <p>Ist noch bisschen leer hier aber ich arbeite dran.</p>
+  <h2>Sonstiges</h2>
+  <a href="http://www.handywerte.de/">Strahlungswerte von Smartphones</a>
+  
 </div>
