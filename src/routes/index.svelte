@@ -7,7 +7,6 @@
 
   .tags {
     font-size: 1.2em;
-    animation: tags 1.5s;
     display: block;
   }
 
@@ -34,12 +33,6 @@
   @keyframes headline {
     0% {
       letter-spacing: 20px;
-    }
-  }
-
-  @keyframes tags {
-    0% {
-      text-shadow: 0px 3px 5px #dadada;
     }
   }
 </style>
