@@ -61,8 +61,10 @@ html {
 	animation: smooth-fade-in 0.5s;
 }
 
-#sapper {
-	font-size: 1.4em;
+@media(min-width: 800px){
+	#sapper {
+		font-size: 1.4em;
+	}
 }
 
 /*end of custom section*/
