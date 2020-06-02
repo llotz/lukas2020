@@ -27,7 +27,7 @@
   
   @media(min-width:800px){
      .tags {
-      font-size: 1.2em  
+      font-size: 1.4em  
     }
   }
 
@@ -60,7 +60,7 @@
 <div class="content">
   <div class="center">
     <div class="tags">
-      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger |
+      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Wissenschaftverfechter |
       Bierliebhaber | Grillsportanhänger | Feuerwehrmann
     </div>
 
