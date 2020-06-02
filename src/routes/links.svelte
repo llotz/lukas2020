@@ -5,7 +5,7 @@
 </style>
 
 <svelte:head>
-  <title>links</title>
+  <title>Lukas' Links</title>
   <meta name="description" content="Nützliche Links" />
 </svelte:head>
 <div class="content">
@@ -17,6 +17,6 @@
   </figure>
   <p>Ist noch bisschen leer hier aber ich arbeite dran.</p>
   <h2>Sonstiges</h2>
-  <a href="http://www.handywerte.de/">Strahlungswerte von Smartphones</a>
+  <a href="http://www.handywerte.de/">handywerte.de - Smartphone Strahlungswerte</a>
   
 </div>
