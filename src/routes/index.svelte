@@ -36,27 +36,31 @@
 
 <svelte:head>
   <title>Lukas Lotz</title>
-  <meta name="description" content="Meine Webseite" />
+  <meta
+    name="description"
+    content="Ich bin Lukas Lotz, ein Fullstack Softwareentwickler!" />
 </svelte:head>
 
-<div class="center">
+<div class="content">
+  <div class="center">
 
-  <h1>Fetzt!</h1>
+    <h1>Fetzt!</h1>
 
-  <figure>
-    <figcaption>
-      Grüß dich! Ich bin Lukas und hier entsteht meine Webseite.
-    </figcaption>
-  </figure>
+    <figure>
+      <figcaption>
+        Grüß dich! Ich bin Lukas und hier entsteht meine Webseite.
+      </figcaption>
+    </figure>
 
-  <img alt="my beautiful face" src="me.jpg" />
+    <img alt="my beautiful face" src="me.jpg" />
 
-  <p>
-    Ich bin Softwareentwickler aus Leidenschaft. Solang es hier noch keine Infos
-    über mich gibt, schau im
-    <a href="/blog">blog</a>
-    vorbei oder zieh dir
-    <a href="https://www.xing.com/profile/Lukas_Lotz/cv">mein xing-profil</a>
-    rein.
-  </p>
+    <p>
+      Ich bin Softwareentwickler aus Leidenschaft. Solang es hier noch keine
+      Infos über mich gibt, schau im
+      <a href="/blog">blog</a>
+      vorbei oder zieh dir
+      <a href="https://www.xing.com/profile/Lukas_Lotz/cv">mein xing-profil</a>
+      rein.
+    </p>
+  </div>
 </div>

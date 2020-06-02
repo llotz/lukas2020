@@ -39,12 +39,15 @@
   <meta name="description" content="Lukas' Blog" />
 </svelte:head>
 
-{#each posts as post}
-  <div class="entry-preview">
-    <a rel="prefetch" href="blog/{post.slug}">
-      <div class="entry-date">{post.localeDate}</div>
-      <div class="entry-title">{post.title}</div>
-      <div class="entry-summary">{post.summary}</div>
-    </a>
-  </div>
-{/each}
+<div class="content">
+  {#each posts as post}
+    <div class="entry-preview">
+      <a rel="prefetch" href="blog/{post.slug}">
+        <div class="entry-date">{post.localeDate}</div>
+        <div class="entry-title">{post.title}</div>
+        <div class="entry-summary">{post.summary}</div>
+      </a>
+    </div>
+  {/each}
+
+</div>

@@ -8,7 +8,7 @@ So. Wie man sieht, ist das hier mein neuer blog. Ich habe mich dazu hinreißen l
 
 Ich habe die Seite hier mit [Svelte](https://svelte.dev/) und [Sapper](https://sapper.svelte.dev/) erstellt. [Hier geht's zum github repo dieser Seite.](https://github.com/llotz/lukas2020)
 
-Nachdem ich mich ein bisschen reinfuchsen musste, war das Verständnis fürs Routing und den Weg der Daten klar. Svelte ist eine schöne Templating Engine und zudem wird die Webseite vor dem Export in einen HTML5 Cocktail kompiliert. Das bedeutet, man bekommt eine schöne schmale Seite ohne abhängigkeiten oder sonstiges.
+Nachdem ich mich ein bisschen reinfuchsen musste, war das Verständnis fürs Routing und den Weg der Daten klar. Svelte ist eine schöne Templating Engine und zudem wird die Webseite vor dem Export in einen HTML5 Cocktail kompiliert. Das bedeutet, man bekommt eine schöne schmale Seite ohne Abhängigkeiten oder Sonstiges.
 
 Gehostet habe ich das ganze dann kostenlos inklusive CI/CD Pipeline auf [netlify](https://netlify.com). Es hat ganze 3 Minuten gedauert, die Pipeline einzurichten.
 

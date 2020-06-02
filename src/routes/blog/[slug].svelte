@@ -56,12 +56,11 @@
   <title>Lukas bloggt - {post.title}</title>
   <meta name="description" content={post.title} />
 </svelte:head>
-
-<div class="blog-header">
-  <h1>{post.title}</h1>
-  {post.localeDate}
-</div>
-
 <div class="content">
+  <div class="blog-header">
+    <h1>{post.title}</h1>
+    {post.localeDate}
+  </div>
+
   {@html post.html}
 </div>
