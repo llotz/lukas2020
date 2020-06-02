@@ -47,7 +47,7 @@
 <div class="content">
   <div class="center">
     <div class="tags">
-      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Wissenschaftverfechter |
+      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Wissenschaftsverfechter |
       Bierliebhaber | Grillsportanhänger | Feuerwehrmann
     </div>
 
