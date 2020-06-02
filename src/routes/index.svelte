@@ -6,7 +6,7 @@
   }
 
   .tags {
-    font-size: 1.4em;
+    font-size: 1.2em;
     animation: tags 3s;
     display: block;
   }
@@ -23,6 +23,12 @@
 
   .center {
     text-align: center;
+  }
+  
+  @media(min-width:800px){
+     .tags {
+      font-size: 1.2em  
+    }
   }
 
   @keyframes headline {
