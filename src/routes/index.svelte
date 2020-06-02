@@ -11,6 +11,7 @@
     text-transform: uppercase;
     font-weight: 700;
     margin: 0 0 0.5em 0;
+    animation: headline 1.5s;
   }
 
   .tags {
@@ -53,6 +54,12 @@
     }
     100% {
       opacity: 1;
+    }
+  }
+  
+  @keyframes headline {
+    0% {
+      letter-spacing: 20px;
     }
   }
 </style>
