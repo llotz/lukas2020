@@ -45,6 +45,8 @@ html {
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+/*custom section*/
+
 @keyframes smooth-fade-in {
 	0% {
 		margin-top: 30px;
@@ -54,6 +56,12 @@ html {
 .content {
 	animation: smooth-fade-in 0.5s;
 }
+
+#sapper {
+	font-size: 1.4em;
+}
+
+/*end of custom section*/
 
 article,
 aside,

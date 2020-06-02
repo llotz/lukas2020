@@ -13,6 +13,12 @@
     margin: 0 0 0.5em 0;
   }
 
+  .tags {
+    font-size: 1.4em;
+    animation: tags 0.3s;
+    display: block;
+  }
+
   figure {
     margin: 0 0 1em 0;
   }
@@ -29,7 +35,24 @@
 
   @media (min-width: 480px) {
     h1 {
-      font-size: 4em;
+      font-size: 3em;
+      animation: headline 1.5s;
+    }
+  }
+
+  @keyframes headline {
+    0% {
+      letter-spacing: 20px;
+    }
+  }
+
+  @keyframes tags {
+    0% {
+      /*opacity: 0;*/
+      margin-left: -5000px;
+    }
+    100% {
+      opacity: 1;
     }
   }
 </style>
@@ -38,22 +61,22 @@
   <title>Lukas Lotz</title>
   <meta
     name="description"
-    content="Ich bin Lukas Lotz, ein Fullstack Softwareentwickler!" />
+    content="Ich bin Lukas, ein Fullstack Softwareentwickler!" />
 </svelte:head>
 
 <div class="content">
   <div class="center">
+    <div class="tags">
+      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger |
+      Bierliebhaber | Grillsportanhänger | Feuerwehrmann
+    </div>
 
-    <h1>Fetzt!</h1>
-
+    <img alt="my beautiful face" src="me.jpg" />
     <figure>
       <figcaption>
         Grüß dich! Ich bin Lukas und hier entsteht meine Webseite.
       </figcaption>
     </figure>
-
-    <img alt="my beautiful face" src="me.jpg" />
-
     <p>
       Ich bin Softwareentwickler aus Leidenschaft. Solang es hier noch keine
       Infos über mich gibt, schau im

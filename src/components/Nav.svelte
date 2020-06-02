@@ -14,6 +14,13 @@
     padding: 0;
   }
 
+  @media (max-width: 800px) {
+    ul {
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+
   /* clearfix */
   ul::after {
     content: "";
