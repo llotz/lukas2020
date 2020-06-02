@@ -1,22 +1,13 @@
 <style>
-  h1,
   figure {
     text-align: center;
     margin: 0 auto;
     margin: 1em auto;
   }
 
-  h1 {
-    font-size: 2.8em;
-    text-transform: uppercase;
-    font-weight: 700;
-    margin: 0 0 0.5em 0;
-    animation: headline 1.5s;
-  }
-
   .tags {
     font-size: 1.4em;
-    animation: tags 0.3s;
+    animation: tags 3s;
     display: block;
   }
 
@@ -34,13 +25,6 @@
     text-align: center;
   }
 
-  @media (min-width: 480px) {
-    h1 {
-      font-size: 3em;
-      animation: headline 1.5s;
-    }
-  }
-
   @keyframes headline {
     0% {
       letter-spacing: 20px;
@@ -49,14 +33,10 @@
 
   @keyframes tags {
     0% {
-      /*opacity: 0;*/
-      margin-left: -5000px;
-    }
-    100% {
-      opacity: 1;
+      text-shadow: 0px 3px 5px #dadada;
     }
   }
-  
+
   @keyframes headline {
     0% {
       letter-spacing: 20px;
