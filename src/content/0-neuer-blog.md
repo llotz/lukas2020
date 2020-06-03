@@ -1,4 +1,5 @@
 ---
+id: 0
 title: 'Neuer Blog'
 summary: 'Ich habe mich der neuen Art des Bloggens hingegeben'
 date: 2020-06-01

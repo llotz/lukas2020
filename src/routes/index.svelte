@@ -1,3 +1,7 @@
+<script>
+  import SocialBadges from "../components/SocialBadges.svelte";
+</script>
+
 <style>
   figure {
     text-align: center;
@@ -23,10 +27,10 @@
   .center {
     text-align: center;
   }
-  
-  @media(min-width:800px){
-     .tags {
-      font-size: 1.4em  
+
+  @media (min-width: 800px) {
+    .tags {
+      font-size: 1.4em;
     }
   }
 
@@ -46,9 +50,12 @@
 
 <div class="content">
   <div class="center">
+
+    <SocialBadges />
     <div class="tags">
-      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Wissenschaftsverfechter |
-      Bierliebhaber | Grillsportanhänger | Feuerwehrmann
+      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger |
+      Wissenschaftsverfechter | Bierliebhaber | Grillsportanhänger |
+      Feuerwehrmann
     </div>
 
     <img alt="my beautiful face" src="me.jpg" />
