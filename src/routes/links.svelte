@@ -16,6 +16,8 @@
     </figcaption>
   </figure>
   <p>Ist noch bisschen leer hier aber ich arbeite dran.</p>
+  <h2>Podcasts</h2>
+  <a href="https://www.codingblocks.net/">Codingblocks</a>
   <h2>Sonstiges</h2>
   <a href="http://www.handywerte.de/">handywerte.de - Smartphone Strahlungswerte</a>
   
