@@ -4,16 +4,19 @@ import grayMatter from 'gray-matter';
 import moment from 'moment';
 
 const getAllPosts = () =>
-	fs.readdirSync('src/content').map((fileName) => {
-		const post = fs.readFileSync(
-			path.resolve('src/content', fileName),
-			'utf-8'
-		);
-		var p = grayMatter(post).data;
-		p.slug = fileName.replace('.md', '');
-		p.localeDate = formatDate(p.date);
-		return p;
-	});
+	fs
+		.readdirSync('src/content')
+		.map((fileName) => {
+			const post = fs.readFileSync(
+				path.resolve('src/content', fileName),
+				'utf-8'
+			);
+			var p = grayMatter(post).data;
+			p.slug = fileName.replace('.md', '');
+			p.localeDate = formatDate(p.date);
+			return p;
+		})
+		.filter((post) => post.published);
 
 const formatDate = (date) => moment(date).format('YYYY-MM-DD');
 

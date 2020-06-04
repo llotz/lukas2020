@@ -1,6 +1,6 @@
 {
 	"name": "lukas2020",
-	"description": "homepage of Lukas Lotz",
+	"description": "My Homepage",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "sapper dev",
