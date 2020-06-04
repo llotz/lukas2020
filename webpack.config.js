@@ -11,6 +11,7 @@ const extensions = ['.mjs', '.js', '.json', '.svelte', '.html'];
 const mainFields = ['svelte', 'module', 'browser', 'main'];
 
 module.exports = {
+	target: 'node',
 	client: {
 		entry: config.client.entry(),
 		output: config.client.output(),
@@ -24,11 +25,11 @@ module.exports = {
 						options: {
 							dev,
 							hydratable: true,
-							hotReload: false // pending https://github.com/sveltejs/svelte/issues/2377
-						}
-					}
-				}
-			]
+							hotReload: false, // pending https://github.com/sveltejs/svelte/issues/2377
+						},
+					},
+				},
+			],
 		},
 		mode,
 		plugins: [
@@ -36,10 +37,10 @@ module.exports = {
 			// dev && new webpack.HotModuleReplacementPlugin(),
 			new webpack.DefinePlugin({
 				'process.browser': true,
-				'process.env.NODE_ENV': JSON.stringify(mode)
+				'process.env.NODE_ENV': JSON.stringify(mode),
 			}),
 		].filter(Boolean),
-		devtool: dev && 'inline-source-map'
+		devtool: dev && 'inline-source-map',
 	},
 
 	server: {
@@ -57,21 +58,21 @@ module.exports = {
 						options: {
 							css: false,
 							generate: 'ssr',
-							dev
-						}
-					}
-				}
-			]
+							dev,
+						},
+					},
+				},
+			],
 		},
 		mode: process.env.NODE_ENV,
 		performance: {
-			hints: false // it doesn't matter if server.js is large
-		}
+			hints: false, // it doesn't matter if server.js is large
+		},
 	},
 
 	serviceworker: {
 		entry: config.serviceworker.entry(),
 		output: config.serviceworker.output(),
-		mode: process.env.NODE_ENV
-	}
+		mode: process.env.NODE_ENV,
+	},
 };

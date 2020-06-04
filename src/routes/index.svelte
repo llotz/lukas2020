@@ -43,19 +43,15 @@
 
 <svelte:head>
   <title>Lukas Lotz</title>
-  <meta
-    name="description"
-    content="Ich bin Lukas, ein Fullstack Softwareentwickler!" />
+  <meta name="description" content="Ich bin Lukas, das ist meine Seite!" />
 </svelte:head>
 
 <div class="content">
   <div class="center">
-
     <SocialBadges />
     <div class="tags">
-      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger |
-      Wissenschaftsverfechter | Bierliebhaber | Grillsportanhänger |
-      Feuerwehrmann
+      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Realist
+      | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
     </div>
 
     <img alt="my beautiful face" src="me.jpg" />

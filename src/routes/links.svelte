@@ -1,3 +1,20 @@
+<script context="module">
+  export async function preload({ params, query }) {
+    const res = await this.fetch(`links.json`);
+    const data = await res.json();
+
+    if (res.status === 200) {
+      return { content: data };
+    } else {
+      this.error(res.status, data.message);
+    }
+  }
+</script>
+
+<script>
+  export let content;
+</script>
+
 <style>
   .content {
     animation: smooth-fade-in 0.5s;
@@ -16,9 +33,7 @@
     </figcaption>
   </figure>
   <p>Ist noch bisschen leer hier aber ich arbeite dran.</p>
-  <h2>Podcasts</h2>
-  <a href="https://www.codingblocks.net/">Codingblocks</a>
-  <h2>Sonstiges</h2>
-  <a href="http://www.handywerte.de/">handywerte.de - Smartphone Strahlungswerte</a>
-  
+  <div class="links">
+    {@html content}
+  </div>
 </div>
