@@ -21,6 +21,9 @@
   img {
     border-radius: 50%;
     max-width: 150px;
+    max-height: 150px;
+    width: 150px;
+    height: 150px;
     margin: 20px;
   }
 

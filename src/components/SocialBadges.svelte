@@ -6,6 +6,8 @@
   img {
     max-width: 50px;
     max-height: 50px;
+    width: 50px;
+    height: 50px;
   }
   .social-badges {
     margin-bottom: 0.8em;
