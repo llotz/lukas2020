@@ -18,7 +18,7 @@
     margin-top: 2em;
   }
   .footer-content {
-    margin-top: 1em;
+    margin: 1em;
   }
   .footer-content a {
     color: #adadad;

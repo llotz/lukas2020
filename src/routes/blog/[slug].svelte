@@ -54,6 +54,7 @@
     margin-top: 0.5em;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
   }
   .category {
     margin-left: 0.6em;
