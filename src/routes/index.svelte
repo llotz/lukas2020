@@ -60,16 +60,9 @@
     <img alt="my beautiful face" src="me.jpg" />
     <figure>
       <figcaption>
-        Grüß dich! Ich bin Lukas und hier entsteht meine Webseite.
+        Grüß dich! Ich bin Lukas und das ist meine Webseite.
       </figcaption>
     </figure>
-    <p>
-      Ich bin Softwareentwickler aus Leidenschaft. Solang es hier noch keine
-      Infos über mich gibt, schau im
-      <a href="/blog">blog</a>
-      vorbei oder zieh dir
-      <a href="https://www.xing.com/profile/Lukas_Lotz/cv">mein xing-profil</a>
-      rein.
-    </p>
+    <p>Hier kommt zeitnah etwas Inhalt.</p>
   </div>
 </div>

@@ -4,6 +4,7 @@ title: 'Neues Smartphone, aber welches?'
 summary: 'Wie ich mein aktuelles Smartphone ausgewählt habe'
 date: 2020-06-04
 published: true
+categories: ['nodev', 'technik', 'android', 'smartphone']
 ---
 
 ##### (TL;DR am Ende)

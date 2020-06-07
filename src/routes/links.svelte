@@ -16,8 +16,9 @@
 </script>
 
 <style>
-  .content {
-    animation: smooth-fade-in 0.5s;
+  .description {
+    font-size: 1.1em;
+    margin-bottom: 2em;
   }
 </style>
 
@@ -28,11 +29,12 @@
 <div class="content">
   <figure>
     <figcaption>
-      Hier kommt ne Linksammlung über Sachen hin, die ich nützlich finde oder
-      für die Nachwelt festhalten will.
+      <div class="description">
+        Hier gibts Links, die ich nützlich finde oder einfach für die Nachwelt
+        festhalten will.
+      </div>
     </figcaption>
   </figure>
-  <p>Ist noch bisschen leer hier aber ich arbeite dran.</p>
   <div class="links">
     {@html content}
   </div>

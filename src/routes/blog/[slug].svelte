@@ -50,6 +50,15 @@
   .blog-header {
     margin-bottom: 20px;
   }
+  .categories {
+    margin-top: 0.5em;
+    display: flex;
+    flex-direction: row;
+  }
+  .category {
+    margin-left: 0.6em;
+    color: #ffd3a9;
+  }
 </style>
 
 <svelte:head>
@@ -59,7 +68,13 @@
 <div class="content">
   <div class="blog-header">
     <h1>{post.title}</h1>
-    {post.localeDate}
+
+    <div class="categories">
+      {post.localeDate}
+      {#each post.categories as category}
+        <div class="category">--{category}</div>
+      {/each}
+    </div>
   </div>
 
   {@html post.html}

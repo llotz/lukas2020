@@ -21,4 +21,7 @@
   <a href="https://github.com/llotz/">
     <img src="github.png" alt="github badge" />
   </a>
+  <a href="https://www.codewars.com/users/llotz">
+    <img src="codewars.png" alt="codewars badge" />
+  </a>
 </div>
