@@ -28,7 +28,7 @@ export function get(req, res) {
 	res.writeHead(200, {
 		'Content-Type': 'application/json',
 	});
-	const posts = (cat == undefined
+	const posts = (cat == undefined || cat == ''
 		? getAllPosts()
 		: getByCategory(cat.toLowerCase())
 	).sort((a, b) => b.date - a.date);

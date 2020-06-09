@@ -20,7 +20,7 @@
 [DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
 
 ### Blogs
-[DE] [Greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, fand ich ganz interessant
+[DE] [Greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
 
 ### Sontiges
 
