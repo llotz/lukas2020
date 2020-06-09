@@ -61,7 +61,7 @@ html {
 	animation: smooth-fade-in 0.5s;
 }
 
-@media(min-width: 800px){
+@media (min-width: 800px) {
 	#sapper {
 		font-size: 1.4em;
 	}
@@ -92,7 +92,7 @@ body {
 	line-height: 1.5;
 	color: #d3d3d3;
 	text-align: left;
-	background-color: #191d21;
+	background-color: #000;
 }
 
 [tabindex='-1']:focus:not(:focus-visible) {

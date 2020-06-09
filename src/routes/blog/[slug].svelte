@@ -56,7 +56,7 @@
     flex-direction: row;
     flex-wrap: wrap;
   }
-  .category a {
+  .category {
     margin-left: 0.6em;
     color: #ffd3a9;
   }
@@ -73,9 +73,7 @@
     <div class="categories">
       {post.localeDate}
       {#each post.categories as category}
-        <div class="category">
-          <a href="blog/cat/{category}">--{category}</a>
-        </div>
+        <div class="category">--{category}</div>
       {/each}
     </div>
   </div>
