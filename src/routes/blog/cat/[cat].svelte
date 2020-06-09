@@ -1,13 +1,13 @@
 <script context="module">
   export async function preload({ params, query }) {
-    const { slug } = params;
-    const res = await this.fetch(`../blog.json?cat=${slug}`).catch(err =>
+    const { cat } = params;
+    const res = await this.fetch(`../blog.json?cat=${cat}`).catch(err =>
       this.error(404, err)
     );
     const data = await res.json();
 
     if (res.status == 200) {
-      return { posts: data, slug };
+      return { posts: data, cat };
     } else {
       this.error(res.status, data.message);
     }
@@ -16,7 +16,7 @@
 
 <script>
   export let posts;
-  export let slug;
+  export let cat;
   import BlogPostPreview from "../../../components/BlogPostPreview.svelte";
 </script>
 
@@ -31,14 +31,14 @@
 </style>
 
 <svelte:head>
-  <title>Lukas bloggt über {slug}</title>
+  <title>Lukas bloggt über {cat}</title>
   <meta name="description" content="Lukas' Blog" />
 </svelte:head>
 
 <div class="content">
   <div class="category-header">
     Einträge der Kategorie
-    <div class="highlight-category">{slug}</div>
+    <div class="highlight-category">{cat}</div>
   </div>
   {#each posts as post}
     <BlogPostPreview {post} />
