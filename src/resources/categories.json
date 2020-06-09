@@ -1,0 +1,22 @@
+[
+	{
+		"name": "dev",
+		"description": "Themen rund um Softwareentwicklung"
+	},
+	{
+		"name": "nodev",
+		"description": "Themen, die nichts mit Softwareentwicklung zu tun haben"
+	},
+	{
+		"name": "hardware",
+		"description": "Hier spielt Hardware eine Rolle"
+	},
+	{
+		"name": "software",
+		"description": "Hier verwende ich irgendwelche Software"
+	},
+	{
+		"name": "technologie",
+		"description": "Inhalte, bei denen technologische Hintergründe zum Tragen kommen"
+	}
+]

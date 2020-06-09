@@ -4,7 +4,7 @@ title: 'Neuer Blog'
 summary: 'Ich habe mich der neuen Art des Bloggens hingegeben'
 date: 2020-06-01
 published: true
-categories: ['dev', 'bloggen', 'hallowelt']
+categories: ['dev', 'bloggen', 'hallowelt', 'software']
 ---
 
 So. Wie man sieht, ist das hier mein neuer blog. Ich habe mich dazu hinreißen lassen, mich der "neuen Art des Bloggens" hinzugeben. Mittlerweile bloggt man offensichtlich nicht mehr über ein Backend sondern man checkt Markdownfiles in ein Github Repository ein und eine CI/CD Pipeline sorgt dafür, dass eine statische Webseite erstellt wird.
