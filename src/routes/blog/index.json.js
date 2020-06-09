@@ -18,12 +18,19 @@ const getAllPosts = () =>
 		})
 		.filter((post) => post.published);
 
+const getByCategory = (category) =>
+	getAllPosts().filter((post) => post.categories.includes(category));
+
 const formatDate = (date) => moment(date).format('YYYY-MM-DD');
 
 export function get(req, res) {
+	const cat = req.query.cat;
 	res.writeHead(200, {
 		'Content-Type': 'application/json',
 	});
-	const posts = getAllPosts().sort((a, b) => b.date - a.date);
+	const posts = (cat == undefined
+		? getAllPosts()
+		: getByCategory(cat.toLowerCase())
+	).sort((a, b) => b.date - a.date);
 	res.end(JSON.stringify(posts));
 }
