@@ -17,6 +17,8 @@
 
 [DE] [IT-Berufe Podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
 
+[DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
+
 ### Blogs
 [DE] [Greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, fand ich ganz interessant
 
