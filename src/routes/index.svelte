@@ -53,7 +53,7 @@
   <div class="center">
     <SocialBadges />
     <div class="tags">
-      Full Stack Softwareentwickler | Kaffeetrinker | Kraftsportjünger | Realist
+      Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger | Realist
       | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
     </div>
 
