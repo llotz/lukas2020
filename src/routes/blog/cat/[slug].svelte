@@ -1,7 +1,7 @@
 <script context="module">
   export async function preload({ params, query }) {
     const { slug } = params;
-    const res = await this.fetch(`blog.json?cat=${slug}`).catch(err =>
+    const res = await this.fetch(`../blog.json?cat=${slug}`).catch(err =>
       this.error(404, err)
     );
     const data = await res.json();

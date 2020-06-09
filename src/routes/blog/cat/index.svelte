@@ -1,8 +1,6 @@
 <script context="module">
   export async function preload({ params, query }) {
-    const res = await this.fetch(`blog/cat.json`).catch(err =>
-      this.error(404, err)
-    );
+    const res = await this.fetch(`cat.json`).catch(err => this.error(404, err));
     const data = await res.json();
 
     if (res.status == 200) {

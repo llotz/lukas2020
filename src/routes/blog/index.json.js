@@ -28,10 +28,9 @@ export function get(req, res) {
 	res.writeHead(200, {
 		'Content-Type': 'application/json',
 	});
-	var posts =
-		cat == undefined || cat == ''
-			? getAllPosts()
-			: getByCategory(cat.toLowerCase());
-	posts = posts.sort((a, b) => b.date - a.date);
+	var posts = (cat == undefined || cat == ''
+		? getAllPosts()
+		: getByCategory(cat.toLowerCase())
+	).sort((a, b) => b.date - a.date);
 	res.end(JSON.stringify(posts));
 }

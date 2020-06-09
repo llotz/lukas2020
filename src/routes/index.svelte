@@ -53,8 +53,8 @@
   <div class="center">
     <SocialBadges />
     <div class="tags">
-      Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger | Realist
-      | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
+      Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger |
+      Realist | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
     </div>
 
     <img alt="my beautiful face" src="me.jpg" />
@@ -63,6 +63,6 @@
         Grüß dich! Ich bin Lukas und das ist meine Webseite.
       </figcaption>
     </figure>
-    <p>Hier kommt zeitnah etwas Inhalt.</p>
+    <p>In naher Zukunft wird sich hier etwas mehr Inhalt finden.</p>
   </div>
 </div>
