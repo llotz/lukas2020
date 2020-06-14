@@ -19,10 +19,15 @@
 
 [DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
 
+### Streamer
+[EN] [ThePrimeagen](https://www.twitch.tv/theprimeagen) / Ein virtuose an der Tastatur, verrückte Projekte, verrückter Typ, benutzt vim
+
+[DE] [jhkrueger](https://www.twitch.tv/jhkrueger) / Professor für Hochleistungsrechnen und Grafikdesign
+
 ### Blogs
 [DE] [Greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
 
-### Sontiges
+### Sonstiges
 
 [DE] [Handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
 
