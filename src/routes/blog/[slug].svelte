@@ -60,6 +60,9 @@
     margin-left: 0.6em;
     color: #ffd3a9;
   }
+  .summary {
+    font-size: 1.1em;
+  }
 </style>
 
 <svelte:head>
@@ -69,7 +72,7 @@
 <div class="content">
   <div class="blog-header">
     <h1>{post.title}</h1>
-
+    <div class="summary">~ {post.summary} ~</div>
     <div class="categories">
       {post.localeDate}
       {#each post.categories as category}
