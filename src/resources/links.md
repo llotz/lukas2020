@@ -1,4 +1,6 @@
 ### Software
+[DE] [ZipCall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
+
 [EN] [MS PowerToys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
 
 [EN] [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
