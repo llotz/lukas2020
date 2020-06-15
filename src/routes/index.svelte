@@ -38,9 +38,9 @@
     text-align: left;
     font-size: 1.1em;
   }
-
-  figcaption {
-    font-size: 1.1em;
+  
+  .welcome-text{
+    font-size: 1.1em; 
   }
 
   h3 {
@@ -68,17 +68,19 @@
 <div class="content">
   <div class="center">
     <SocialBadges />
-    <div class="tags">
-      Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger |
-      Realist | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
-    </div>
-
-    <img alt="my beautiful face" src="me.jpg" />
     <figure>
       <figcaption>
-        Grüß dich! Ich bin Lukas und das ist meine Webseite.
+        <div class="tags">
+          Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger |
+          Realist | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
+        </div>
       </figcaption>
     </figure>
+
+    <img alt="my beautiful face" src="me.jpg" />
+    
+    <div class="welcome-text">Grüß dich! Ich bin Lukas und das ist meine Webseite.</div>
+      
     <h3>Was soll das hier?</h3>
     <div class="answer">
       Hier gibts Informationen über mich, Sachen die ich nützlich finde,
