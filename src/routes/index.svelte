@@ -32,19 +32,20 @@
   }
 
   .answer {
-    color: #ddad55;
+    color: #7c7c7c;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
     font-size: 1.1em;
   }
-  
-  .welcome-text{
-    font-size: 1.1em; 
+
+  .welcome-text {
+    font-size: 1.1em;
   }
 
   h3 {
     margin-top: 0.8em;
+    margin-bottom: 0.8em;
   }
 
   @media (min-width: 800px) {
@@ -78,15 +79,9 @@
     </figure>
 
     <img alt="my beautiful face" src="me.jpg" />
-    
-    <div class="welcome-text">Grüß dich! Ich bin Lukas und das ist meine Webseite.</div>
-      
-    <h3>Was soll das hier?</h3>
-    <div class="answer">
-      Hier gibts Informationen über mich, Sachen die ich nützlich finde,
-      meistens rund ums Programmieren oder irgendeines meiner Interessengebiete.
-      Außerdem habe ich mich gerade ein bisschen mit Svelte auseinandergesetzt
-      und das hier ist mein erstes Projekt, das ich damit baue.
+
+    <div class="welcome-text">
+      Grüß dich! Ich bin Lukas und das ist meine Webseite.
     </div>
 
     <h3>Wer bist du?</h3>

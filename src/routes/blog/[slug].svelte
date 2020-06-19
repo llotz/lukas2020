@@ -58,7 +58,7 @@
   }
   .category {
     margin-left: 0.6em;
-    color: #ffd3a9;
+    color: #ff774a;
   }
   .summary {
     font-size: 1.1em;
