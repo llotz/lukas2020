@@ -86,11 +86,10 @@
 
     <h3>Wer bist du?</h3>
     <div class="answer">
-      Oben in den Tags hast du schon eine Kurzbeschreibung gefunden. Ich bin
-      leidenschaftlicher Softwareentwickler, programmiere beruflich und ab und
-      zu sitze ich auch an einem kleinen privaten Projekt. Ich mag schwarzen
-      Kaffee, stehe auf die harte Realität und weiß ein mit Liebe gebrautes Bier
-      zu einem adäquaten Stück Fleisch zu schätzen.
+      Ich bin leidenschaftlicher Softwareentwickler, programmiere beruflich und
+      ab und zu sitze ich auch an einem kleinen privaten Projekt. Ich mag
+      schwarzen Kaffee, stehe auf die harte Realität und weiß ein mit Liebe
+      gebrautes Bier zu einem adäquaten Stück Fleisch zu schätzen.
     </div>
 
     <h3>Was programmiert man so?</h3>
