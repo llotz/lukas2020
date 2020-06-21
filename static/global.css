@@ -66,6 +66,14 @@ html {
 		font-size: 1.4em;
 	}
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #ff774a;
+}
 
 /*end of custom section*/
 
@@ -190,8 +198,8 @@ sup {
 }
 
 a {
-	color: #ff774a;
-	text-decoration: none;
+	color: #ff4000;
+	/*text-decoration: none;*/
 	background-color: transparent;
 }
 a:hover {
@@ -420,7 +428,7 @@ h2,
 
 h3,
 .h3 {
-	font-size: 1.75rem;
+	font-size: 1.65rem;
 }
 
 h4,
