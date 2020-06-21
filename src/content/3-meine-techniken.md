@@ -11,7 +11,7 @@ Hier möchte ich einen kurzen Abriss geben, was ich aus den Zahlreichen __"Zeitm
 
 ## Motivation
 
-Es ist hilfreich wenn das, was man macht, einem generell Spaß bereitet. Bei mir ist das so. Trotzdem sitze ich manchmal am Rechner und habe 0 Bock auf das, was ich gerade machen sollte. Ob an der Arbeit oder Privat. Man sollte sich bewusst sein, dass keiner 8 Stunden volle Leistung bringen kann, dennoch gibt es ein paar Methoden, Prokrastination und Unlust einen Riegel vorzuschieben. Zu diesem Thema habe ich mir schon massenweise Ratgeber reingezogen, am Ende haben meistens nur die simpelsten Sachen geholfen. Hier sind meine Methoden dazu.
+Es ist hilfreich wenn das, was man macht, einem generell Spaß bereitet. Bei mir ist das so. Trotzdem sitze ich manchmal am Rechner und habe 0 Bock auf das, was ich gerade machen sollte. Ob an der Arbeit oder Privat. Man sollte sich bewusst sein, dass keiner 8 Stunden volle Leistung bringen kann. Dennoch gibt es ein paar Methoden, Prokrastination und Unlust einen Riegel vorzuschieben. Zu diesem Thema habe ich mir schon massenweise Ratgeber reingezogen. Am Ende haben meistens nur die simpelsten Sachen geholfen. Hier sind meine Methoden dazu.
 
 ### 5min-Stoppuhr
 
