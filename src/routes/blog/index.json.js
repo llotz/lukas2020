@@ -11,10 +11,12 @@ const getAllPosts = () =>
 				path.resolve('src/content', fileName),
 				'utf-8'
 			);
-			var p = grayMatter(post).data;
-			p.slug = fileName.replace('.md', '');
-			p.localeDate = formatDate(p.date);
-			return p;
+			const { data, content } = grayMatter(post);
+			data.slug = fileName.replace('.md', '');
+			data.localeDate = formatDate(data.date);
+			data.words = content.split(' ').length;
+			data.minRead = Math.ceil(data.words / 250);
+			return data;
 		})
 		.filter((post) => post.published);
 
@@ -31,6 +33,6 @@ export function get(req, res) {
 	var posts = (cat == undefined || cat == ''
 		? getAllPosts()
 		: getByCategory(cat.toLowerCase())
-	).sort((a, b) => b.date - a.date);
+	).sort((a, b) => b.id - a.id);
 	res.end(JSON.stringify(posts));
 }

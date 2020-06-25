@@ -16,6 +16,8 @@ export function get(req, res, next) {
 	const { data, content } = grayMatter(post);
 	data.slug = slug;
 	data.localeDate = formatDate(data.date);
+	data.words = content.split(' ').length;
+	data.minRead = Math.ceil(data.words / 250);
 	const html = marked(content, { renderer });
 
 	if (html) {

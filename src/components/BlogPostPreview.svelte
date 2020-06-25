@@ -30,13 +30,28 @@
   a:hover {
     border-left: 10px solid #ff774a;
   }
+  .above {
+    display: flex;
+    flex-direction: row;
+  }
+  .read-time {
+    margin-left: 0.5em;
+  }
+  .entry-date {
+    margin-right: 0.5em;
+  }
 </style>
 
 <div class="entry-preview">
   <a rel="prefetch" href="blog/{post.slug}">
     <div class="entry-no">#{post.id}</div>
     <div class="entry-right">
-      <div class="entry-date">{post.localeDate}</div>
+      <div class="above">
+        <div class="entry-date">{post.localeDate}</div>
+        |
+        <div class="read-time">{post.minRead} min</div>
+      </div>
+
       <div class="entry-title">{post.title}</div>
       <div class="entry-summary">{post.summary}</div>
     </div>
