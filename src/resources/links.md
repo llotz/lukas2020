@@ -1,4 +1,6 @@
 ### Software
+[EN] [HackMd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
+
 [DE] [ZipCall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
 
 [EN] [MS PowerToys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
@@ -11,6 +13,8 @@
 [EN] [Tolinskis Linksammlung](https://github.com/stolinski/Best-websites-a-programmer-should-visit) / "Best Websites a programmer should visit"
 
 [EN] [codewars](https://www.codewars.com/) / Kleine Aufgaben (Katas) zur Entspannung oder als Wettbewerb
+
+[EN] [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
 
 ### Podcasts
 [EN] [Codingblocks](https://www.codingblocks.net/) / Entwicklerpodcast über alles Mögliche
