@@ -7,6 +7,8 @@
 
 [EN] [My Personal Kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
 
+[DE] [Draw.io](https://draw.io/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
+
 ### DEV
 [EN] [DEV.to](https://dev.to) / Eine Community rund um Softwareentwicklung
 
