@@ -1,51 +1,51 @@
 ### Software
 
-[EN][hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
+[EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
-[DE][zipcall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
+[DE] [zipcall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
 
-[EN][ms powertoys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
+[EN] [ms powertoys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
 
-[EN][my personal kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
+[EN] [my personal kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
 
-[DE][draw.io](https://draw.io/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
+[DE] [draw.io](https://draw.io/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
 
-[EN][workflowy](https://workflowy.com/) / Onlinenotizapp (Endlos-Stichpunktliste)
+[EN] [workflowy](https://workflowy.com/) / Onlinenotizapp (Endlos-Stichpunktliste)
 
-[EN][dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
+[EN] [dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
 
 ### DEV
 
-[EN][dev.to](https://dev.to) / Eine Community rund um Softwareentwicklung
+[EN] [dev.to](https://dev.to) / Eine Community rund um Softwareentwicklung
 
-[EN][tolinskis linksammlung](https://github.com/stolinski/Best-websites-a-programmer-should-visit) / "Best Websites a programmer should visit"
+[EN] [tolinskis linksammlung](https://github.com/stolinski/Best-websites-a-programmer-should-visit) / "Best Websites a programmer should visit"
 
-[EN][codewars](https://www.codewars.com/) / Kleine Aufgaben (Katas) zur Entspannung oder als Wettbewerb
+[EN] [codewars](https://www.codewars.com/) / Kleine Aufgaben (Katas) zur Entspannung oder als Wettbewerb
 
-[EN][markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
+[EN] [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
 
 ### Podcasts
 
-[EN][codingblocks](https://www.codingblocks.net/) / Entwicklerpodcast über alles Mögliche
+[EN] [codingblocks](https://www.codingblocks.net/) / Entwicklerpodcast über alles Mögliche
 
-[EN][syntax.fm](https://syntax.fm/) / Webentwickler Podcast
+[EN] [syntax.fm](https://syntax.fm/) / Webentwickler Podcast
 
-[DE][it-berufe podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
+[DE] [it-berufe podcast](https://it-berufe-podcast.de/category/podcast/) / Podcast rund um die Ausbildung zum Anwendungsentwickler
 
-[DE][programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
+[DE] [programmier.bar](https://programmier.bar/) / Ein Podcast um ein Team, das webbasierte Spiele und Webseiten entwickelt
 
 ### Streamer
 
-[EN][theprimeagen](https://www.twitch.tv/theprimeagen) / Ein virtuose an der Tastatur, verrückte Projekte, verrückter Typ, benutzt vim
+[EN] [theprimeagen](https://www.twitch.tv/theprimeagen) / Ein virtuose an der Tastatur, verrückte Projekte, verrückter Typ, benutzt vim
 
-[DE][jhkrueger](https://www.twitch.tv/jhkrueger) / Professor für Hochleistungsrechnen und Grafikdesign
+[DE] [jhkrueger](https://www.twitch.tv/jhkrueger) / Professor für Hochleistungsrechnen und Grafikdesign
 
 ### Blogs
 
-[DE][greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
+[DE] [greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
 
 ### Sonstiges
 
-[DE][handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
+[DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
 
-[DE][die perfekte rasur](https://nichtinseattle.de/die-perfekte-rasur) / Blogeintrag übers Rasieren und die verschiedenen Varianten
+[DE] [die perfekte rasur](https://nichtinseattle.de/die-perfekte-rasur) / Blogeintrag übers Rasieren und die verschiedenen Varianten
