@@ -35,6 +35,7 @@
   }
   .summary {
     font-size: 1.05em;
+    font-style: oblique;
   }
 </style>
 
@@ -45,7 +46,7 @@
 <div class="content">
   <div class="blog-header">
     <h1>{post.title}</h1>
-    <div class="summary">- {post.summary} -</div>
+    <div class="summary">{post.summary}</div>
     <div class="categories">
       {post.localeDate}
       {#each post.categories as category}
