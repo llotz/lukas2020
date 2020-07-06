@@ -24,6 +24,8 @@
 
 [EN] [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
 
+[DE] [Clean Code Developer](https://clean-code-developer.de/) / Eine Initiative, um das Bewusstsein für clean code zu steigern
+
 ### Podcasts
 
 [EN] [codingblocks](https://www.codingblocks.net/) / Entwicklerpodcast über alles Mögliche
