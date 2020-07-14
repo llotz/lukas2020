@@ -1,13 +1,13 @@
 ---
 id: 3
-title: 'Meine Techniken'
-summary: 'Motivation & Fokus | so funktioniert das für mich'
+title: 'Motivation & Fokus'
+summary: 'so funktioniert das für mich'
 date: 2020-06-21
 published: true
 categories: ['nodev', 'produktivität', 'motivation', 'fokus']
 ---
 
-Hier möchte ich einen kurzen Abriss geben, was ich aus den Zahlreichen __"Zeitmanagement"__, __"Innerer Fokus für Laserjedis"__ und __"So motivierst du dich richtig in 237 Schritten!!!"__ Podcasts, Kursen und Onlineartikeln an nützlichen Techniken für mich umsetzen konnte, was davon für mich funktioniert und was nicht.
+Hier möchte ich einen kurzen Abriss geben, was ich aus den Zahlreichen **"Zeitmanagement"**, **"Innerer Fokus für Laserjedis"** und **"So motivierst du dich richtig in 237 Schritten!!!"** Podcasts, Kursen und Onlineartikeln an nützlichen Techniken für mich umsetzen konnte, was davon für mich funktioniert und was nicht.
 
 ## Motivation
 
@@ -15,7 +15,7 @@ Es ist hilfreich wenn das, was man macht, einem generell Spaß bereitet. Bei mir
 
 ### 5min-Stoppuhr
 
-Einfaches Prinzip: Ich starte eine Stoppuhr und beginne mit einer Aufgabe, auf die ich eigentlich keine Lust habe. Dann sperre ich das Display meines Smartphones, um die laufende Stoppuhr nicht im Sichtfeld zu haben. Wenn ich dann auf die Stoppuhr schaue und die 5 Minuten vorbei sind, entscheide ich, ob ich mit der Aufgabe weitermache oder nicht. Meistens hat sich bei mir dann wieder soviel Tatendrang angesammelt oder ich bin so stark fokussiert, dass ich garkeine Lust mehr habe, mit der Aufgabe auzuhören. __Wichtig hier:__ Nimm keinen Timer, der dich nach 5 Minuten erinnert. Das stört und reißt einen aus der Aufgabe.
+Einfaches Prinzip: Ich starte eine Stoppuhr und beginne mit einer Aufgabe, auf die ich eigentlich keine Lust habe. Dann sperre ich das Display meines Smartphones, um die laufende Stoppuhr nicht im Sichtfeld zu haben. Wenn ich dann auf die Stoppuhr schaue und die 5 Minuten vorbei sind, entscheide ich, ob ich mit der Aufgabe weitermache oder nicht. Meistens hat sich bei mir dann wieder soviel Tatendrang angesammelt oder ich bin so stark fokussiert, dass ich garkeine Lust mehr habe, mit der Aufgabe auzuhören. **Wichtig hier:** Nimm keinen Timer, der dich nach 5 Minuten erinnert. Das stört und reißt einen aus der Aufgabe.
 
 ### Friss den Frosch, du Ratte!
 
@@ -27,7 +27,7 @@ Wenn die Aufgabe vermutlich länger als 2h dauert, unterteile ich sie in mehrere
 
 ## Fokus
 
-Fokussiert bleiben ist eine wichtige Sache für komplexe Aufgaben, die eine längere Einarbeitungszeit erfordern. Ich habe mir ein paar Dinge angewöhnt, die mich das bestmöglich durchziehen lassen. Dabei arbeite ich darauf hin, den [Flow-Zustand](https://de.wikipedia.org/wiki/Flow_(Psychologie)) zu erreichen.
+Fokussiert bleiben ist eine wichtige Sache für komplexe Aufgaben, die eine längere Einarbeitungszeit erfordern. Ich habe mir ein paar Dinge angewöhnt, die mich das bestmöglich durchziehen lassen. Dabei arbeite ich darauf hin, den [Flow-Zustand](<https://de.wikipedia.org/wiki/Flow_(Psychologie)>) zu erreichen.
 
 ### Störquellen abschalten
 
