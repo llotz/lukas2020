@@ -24,6 +24,10 @@
 
 [EN] [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) / Eine Beschreibung aller Markdown funktionen
 
+[DE] [Clean Code Developer](https://clean-code-developer.de/) / Eine Initiative, um das Bewusstsein für clean code zu steigern
+
+[EN] [Web Framework Benchmarks](https://www.techempower.com/benchmarks/) / Benchmarkergebnisse, die die aktuellen Webframeworks vergleichen
+
 ### Podcasts
 
 [EN] [codingblocks](https://www.codingblocks.net/) / Entwicklerpodcast über alles Mögliche
@@ -38,7 +42,7 @@
 
 [EN] [theprimeagen](https://www.twitch.tv/theprimeagen) / Ein virtuose an der Tastatur, verrückte Projekte, verrückter Typ, benutzt vim
 
-[DE] [jhkrueger](https://www.twitch.tv/jhkrueger) / Professor für Hochleistungsrechnen und Grafikdesign
+[DE] [jhkrueger](https://www.twitch.tv/jhkrueger) / Professor für Hochleistungsrechnen, steht auf Grafikerzeugung
 
 ### Blogs
 
