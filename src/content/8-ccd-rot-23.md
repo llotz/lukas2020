@@ -2,7 +2,7 @@
 id: 8
 title: 'CCD - Rot - Tag 23'
 summary: 'Tag 23'
-date: 2020-07-27
+date: 2020-08-06
 published: true
 categories: ['dev', 'tagebuch', 'clean-code-developer']
 ---
