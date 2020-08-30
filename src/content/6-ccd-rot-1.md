@@ -1,7 +1,7 @@
 ---
 id: 6
 title: 'CCD - Rot - Tag 1'
-summary: 'Tag 1 meiner Reise'
+summary: 'Tag 1'
 date: 2020-07-14
 published: true
 categories: ['dev', 'tagebuch', 'clean-code-developer']
