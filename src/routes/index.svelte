@@ -97,8 +97,7 @@
       <p>
         Beruflich bin ich meistens im .NET Umfeld mit C# zugange. Privat
         probiere ich auch gerne mal irgendwas von den zahllosen neuen Sachen,
-        die jeden Tag rauskommen. Meistens hat es komischerweise mit Javascript
-        zu tun, obwohl ich dafür keine besondere Leidenschaft hege. Von Zeit zu
+        die jeden Tag rauskommen. Von Zeit zu
         Zeit mache ich mir aber auch gerne die Hände an einer neuen Sprache
         dreckig.
       </p>
