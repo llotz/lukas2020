@@ -119,7 +119,7 @@
       <p>
         An der Arbeit versuche ich eher Sachen wie neue Fähigkeiten umzusetzen 
         (Clean Code, Entwurfsmuster etc.) weil die Umgebung meistens eine Technologie
-        vorgibt. im Privaten teste ich gerne mal ein neues Framework oder eine mir 
+        vorgibt. Im Privaten teste ich gerne mal ein neues Framework oder eine mir 
         unbekannte Technologie oder Sprache. Mir macht mein Handwerk spaß.
       </p>
       <p>
@@ -139,7 +139,7 @@
       nicht direkt zu schließen.
     </div>
     
-    <h3>Kann ich dich Kontaktieren?</h3>
+    <h3>Kann ich dich kontaktieren?</h3>
     <div class="answer">
       Klar! Gerne über Xing, Github oder via Email an meinVorname@meinNachname24.de (Das Muster sollte klar sein und dient lediglich dem Spamschutz).
     </div>
