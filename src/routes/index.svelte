@@ -92,18 +92,41 @@
       gebrautes Bier zu einem adäquaten Stück Fleisch zu schätzen.
     </div>
 
-    <h3>Was programmiert man so?</h3>
+    <h3>Was programmiert man denn so?</h3>
     <div class="answer">
       <p>
-        Beruflich bin ich meistens im .NET Umfeld mit C# zugange. Privat
+        Beruflich bin ich hauptsächlich im .NET Umfeld mit C# zugange. Privat
         probiere ich auch gerne mal irgendwas von den zahllosen neuen Sachen,
         die jeden Tag rauskommen. Von Zeit zu
-        Zeit mache ich mir aber auch gerne die Hände an einer neuen Sprache
+        Zeit mache ich mir aber auch gerne die Hände an einer neuen Programmiersprache
         dreckig.
       </p>
       <p>
         Schau dir mein Githubprofil an, dort findest du ein paar der Projekte,
         die ich in meiner Freitzeit so zusammenklimpere.
+      </p>
+    </div>
+    
+    <h3>Hast du allgemeine Ansichten zu deinem Beruf?</h3>
+    <div class="answer">
+      <p>
+        Der Job als Softwarareentwickler lässt sich schwer pauschalisieren, da bei mir
+        das momentane Interesse eine sehr große Rolle spielt. Zweifelsohne geht man aber
+        ohne Lernbereitschaft unter oder bleibt auf der Stelle stehen und verliert immer
+        schneller den Anschluss an die Branche. Man muss sich stetig neues Wissen aneignen,
+        um die Fähigkeit zu lernen nicht zu verlernen.
+      </p>
+      <p>
+        An der Arbeit versuche ich eher Sachen wie neue Fähigkeiten umzusetzen 
+        (Clean Code, Entwurfsmuster etc.) weil die Umgebung meistens eine Technologie
+        vorgibt. im Privaten teste ich gerne mal ein neues Framework oder eine mir 
+        unbekannte Technologie oder Sprache. Mir macht mein Handwerk spaß.
+      </p>
+      <p>
+        Ja, Programmieren ist meiner bescheidenen Meinung nach ein Handwerk. 
+        Man erkennt schnell, ob der Code von einem lustlosen Anfänger gerade 
+        so zum laufen gebracht wurde oder ob er liebevoll und durchdacht, 
+        strukturiert und wohlüberlegt entwickelt wurde.
       </p>
     </div>
 
@@ -115,5 +138,11 @@
       könnten Besuchern an der ein oder anderen Stelle helfen, die Webseite
       nicht direkt zu schließen.
     </div>
+    
+    <h3>Kann ich dich Kontaktieren?</h3>
+    <div class="answer">
+      Klar! Gerne über Xing, Github oder via Email an meinVorname@meinNachname24.de (Das Muster sollte klar sein und dient lediglich dem Spamschutz).
+    </div>
+    
   </div>
 </div>
