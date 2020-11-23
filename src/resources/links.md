@@ -14,6 +14,8 @@
 
 [EN] [dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
 
+[EN/DE] [MacroDroid](https://macrodroid.com/) / Automatisierung von Events auf dem Android-Smartphone
+
 ### DEV
 
 [EN] [dev.to](https://dev.to) / Eine Community rund um Softwareentwicklung
