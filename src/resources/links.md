@@ -14,7 +14,11 @@
 
 [EN] [dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
 
-[EN/DE] [MacroDroid](https://macrodroid.com/) / Automatisierung von Events auf dem Android-Smartphone
+[EN] [MacroDroid](https://macrodroid.com/) / Automatisierung von Events auf dem Android-Smartphone
+
+[EN] [Winter Whale ASMR auf Youtube](https://www.youtube.com/channel/UCTUz24QLqXue53O4dLuyMtw) / Hintergrundgeräusche zum Fokussieren oder Entspannen
+
+[EN] [Blissful noises](https://blissfulnoises.com/) / Hintergrundgeräusch-Mixer (Web-App)
 
 ### DEV
 
