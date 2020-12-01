@@ -10,7 +10,7 @@
 
 [DE] [draw.io](https://draw.io/) / Ein Onlinetool für Skizzen, Flussdiagramme etc.
 
-[EN] [workflowy](https://workflowy.com/) / Onlinenotizapp (Endlos-Stichpunktliste)
+[EN] [workflowy](https://workflowy.com/) / Online Notizapp als Endlos-Stichpunktliste
 
 [EN] [dwitter](https://dwitter.net) / Soziales Netzwerk: Javascript Rendermechanismen mit max. 140 Zeichen
 
