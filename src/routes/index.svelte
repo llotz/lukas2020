@@ -87,9 +87,7 @@
     <h3>Wer bist du?</h3>
     <div class="answer">
       Ich bin leidenschaftlicher Softwareentwickler, programmiere beruflich und
-      ab und zu sitze ich auch an einem kleinen privaten Projekt. Ich mag
-      schwarzen Kaffee, stehe auf die harte Realität und weiß ein mit Liebe
-      gebrautes Bier zu einem adäquaten Stück Fleisch zu schätzen.
+      ab und zu sitze ich auch an einem kleinen privaten Projekt. 
     </div>
 
     <h3>Was programmiert man denn so?</h3>
