@@ -1,5 +1,7 @@
 ### Software
 
+[EN] [privacytools.io](https://privacytools.io/) / Auflistung verschiedener Software und Dienste, denen deine Daten nicht egal sind
+
 [EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
 [DE] [zipcall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
