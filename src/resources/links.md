@@ -22,6 +22,8 @@
 
 [EN] [Blissful noises](https://blissfulnoises.com/) / Hintergrundgeräusch-Mixer (Web-App)
 
+[EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
+
 ### DEV
 
 [EN] [dev.to](https://dev.to) / Eine Community rund um Softwareentwicklung
