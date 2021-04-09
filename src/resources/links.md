@@ -24,7 +24,7 @@
 
 [EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
 
-[DE] [/e/ foundation](https://e.foundation/de/) / Projeft für entgoogletes Android
+[DE] [/e/ foundation](https://e.foundation/de/) / Projekt für entgoogletes Android
 
 ### DEV
 
