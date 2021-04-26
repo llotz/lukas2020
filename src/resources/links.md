@@ -24,6 +24,12 @@
 
 [EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
 
+[DE] [/e/ foundation](https://e.foundation/de/) / Projekt für Android ohne Google-Dienste
+
+[DE] [volla phone](http://volla.online/) / Deutsches Projekt für Android ohne Google-Dienste
+
+[DE] [simplenote](https://simplenote.com/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
+
 ### DEV
 
 [EN] [dev.to](https://dev.to) / Eine Community rund um Softwareentwicklung
