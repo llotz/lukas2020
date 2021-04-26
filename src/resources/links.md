@@ -28,7 +28,7 @@
 
 [DE] [volla phone](http://volla.online/) / Deutsches Projekt für Android ohne Google-Dienste
 
-[DE] [simplenote](https://simplenote.de/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
+[DE] [simplenote](https://simplenote.com/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
 
 ### DEV
 
