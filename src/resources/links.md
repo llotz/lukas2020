@@ -4,7 +4,7 @@
 
 [EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
-[DE] [zipcall](https://zipcall.io/) / Browserbasierte Videokonferenzsoftware
+[DE] [meething space](https://meething.space/) / Browserbasierte, dezentrale Videokonferenzsoftware
 
 [EN] [ms powertoys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
 
