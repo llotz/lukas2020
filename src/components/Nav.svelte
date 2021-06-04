@@ -86,7 +86,7 @@
       <a
         rel="prefetch"
         aria-current={segment === 'blog' ? 'page' : undefined}
-        href="https://blog.fcr33p.com/">
+        href="blog">
         blog
       </a>
     </li>
