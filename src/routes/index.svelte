@@ -90,7 +90,7 @@
       ab und zu sitze ich auch an einem kleinen privaten Projekt. 
     </div>
 
-    <h3>Was programmiert man denn so?</h3>
+    <h3>Was programmierst du so?</h3>
     <div class="answer">
       <p>
         Beruflich bin ich hauptsächlich im .NET Umfeld mit C# zugange. Privat
