@@ -108,7 +108,7 @@
     <h3>Hast du allgemeine Ansichten zu deinem Beruf?</h3>
     <div class="answer">
       <p>
-        Der Job als Softwarareentwickler lässt sich schwer pauschalisieren, da bei mir
+        Der Job als Softwareentwickler lässt sich schwer pauschalisieren, da bei mir
         das momentane Interesse eine sehr große Rolle spielt. Zweifelsohne geht man aber
         ohne Lernbereitschaft unter oder bleibt auf der Stelle stehen und verliert immer
         schneller den Anschluss an die Branche. Man muss sich stetig neues Wissen aneignen,
