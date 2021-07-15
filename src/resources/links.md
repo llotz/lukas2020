@@ -1,6 +1,12 @@
-### Software
+### Datensicherheit
 
 [EN] [privacytools.io](https://privacytools.io/) / Auflistung verschiedener Software und Dienste, denen deine Daten nicht egal sind
+
+[DE] [/e/ foundation](https://e.foundation/de/) / Projekt über Android-ROM ohne Google-Dienste
+
+[DE] [volla phone](http://volla.online/) / Deutsches Projekt über Android-ROM ohne Google-Dienste
+
+### Software
 
 [EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
@@ -23,10 +29,6 @@
 [EN] [Blissful noises](https://blissfulnoises.com/) / Hintergrundgeräusch-Mixer (Web-App)
 
 [EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
-
-[DE] [/e/ foundation](https://e.foundation/de/) / Projekt für Android ohne Google-Dienste
-
-[DE] [volla phone](http://volla.online/) / Deutsches Projekt für Android ohne Google-Dienste
 
 [DE] [simplenote](https://simplenote.com/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
 
