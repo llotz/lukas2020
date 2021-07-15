@@ -74,14 +74,14 @@
         links
       </a>
     </li>
-    <li>
+    <!--<li>
       <a
         rel="prefetch"
         aria-current={segment === 'setup' ? 'page' : undefined}
         href="setup">
         setup
       </a>
-    </li>
+    </li>-->
     <li>
       <a
         rel="prefetch"
