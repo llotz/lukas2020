@@ -73,7 +73,7 @@
       <figcaption>
         <div class="tags">
           Full Stack Softwareentwickler | Schwarztrinker | Kraftsportjünger |
-          Realist | Bierliebhaber | Grillsportanhänger | Feuerwehrmann
+          Realist | Grillsportanhänger | Feuerwehrmann
         </div>
       </figcaption>
     </figure>
@@ -139,7 +139,7 @@
     
     <h3>Kann ich dich kontaktieren?</h3>
     <div class="answer">
-      Klar! Gerne über Xing, Github oder via Email an meinVorname@meinNachname24.de (Das Muster sollte klar sein und dient lediglich dem Spamschutz).
+      Klar! Gerne über Xing oder Github.
     </div>
     
   </div>
