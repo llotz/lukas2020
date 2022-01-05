@@ -10,8 +10,6 @@
 
 [EN] [hackmd](https://hackmd.io) / Browserbasiertes gemeinsames Editieren (Meetingnotizen)
 
-[DE] [meething space](https://meething.space/) / Browserbasierte, dezentrale Videokonferenzsoftware
-
 [EN] [ms powertoys](https://github.com/microsoft/PowerToys/releases/) / Eine kraftvolle Ergänzung für Windows 10 Benutzer
 
 [EN] [my personal kanban](https://greggigon.github.io/my-personal-kanban/) / Kanban-board für die lokale Anwendung im Browser
@@ -31,6 +29,14 @@
 [EN] [Bacon Ipsum](https://baconipsum.com/) / Fülltextgenerator für Fleischliebhaber
 
 [DE] [simplenote](https://simplenote.com/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
+
+### Video Konferenzen
+
+[DE] [meething space](https://meething.space/) / Browserbasierte, dezentrale Videokonferenzsoftware
+
+[DE] [jitsi](https://meet.jit.si/) / Browserbasierte, dezentrale Videokonferenzsoftware
+
+[EN] [Brie.fi/ng](https://brie.fi/ng) / Browserbasierte, dezentrale Videokonferenzsoftware
 
 ### DEV
 
