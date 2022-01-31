@@ -1,3 +1,7 @@
+### News
+
+[EN] [the morning brew](https://blog.cwa.me.uk/) / Nachrichten für .NET Entwickler
+
 ### Datensicherheit
 
 [EN] [privacytools.io](https://privacytools.io/) / Auflistung verschiedener Software und Dienste, denen deine Daten nicht egal sind
