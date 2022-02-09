@@ -34,6 +34,8 @@
 
 [DE] [simplenote](https://simplenote.com/) / Desktop/Web client für synchronisierte Notizen - wie [Notion](https://notion.com/) aber Open Source
 
+[EN] [userbenchmark](https://www.userbenchmark.com/) / Website zum vergleichen von Hardware auf Basis von zig Benchmarks
+
 ### Video Konferenzen
 
 [DE] [meething space](https://meething.space/) / Browserbasierte, dezentrale Videokonferenzsoftware
