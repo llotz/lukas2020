@@ -2,7 +2,11 @@
 
 [EN] [the morning brew](https://blog.cwa.me.uk/) / Nachrichten für .NET Entwickler
 
-### Datensicherheit
+### Datensicherheit & Privatsphäre
+
+[EN] [techlore.tech](https://techlore.tech) / Starterguides für Anfänger/Fortgeschrittene und eine privatsphäre orientierte Community
+
+[EN] [privacyguides.org](https://privacyguides.org) / Privatsphäreorientierte Software und Dienste nach Kategorie
 
 [EN] [privacytools.io](https://privacytools.io/) / Auflistung verschiedener Software und Dienste, denen deine Daten nicht egal sind
 
