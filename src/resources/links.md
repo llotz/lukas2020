@@ -4,6 +4,8 @@
 
 ### Datensicherheit & Privatsphäre
 
+[DE] [OO Shutup](https://www.oo-software.com/de/shutup10) / Programm um Windows-Telemetrie zu deaktivieren und die Privatsphäre hochzuschrauben 
+
 [EN] [techlore.tech](https://techlore.tech) / Starterguides für Anfänger/Fortgeschrittene und eine privatsphäre orientierte Community
 
 [EN] [privacyguides.org](https://privacyguides.org) / Privatsphäreorientierte Software und Dienste nach Kategorie
