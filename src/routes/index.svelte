@@ -139,7 +139,7 @@
       nicht direkt zu schließen.
     </div>
     
-    <h3Kontakt</h3>
+    <h3>Kontakt</h3>
     <div class="answer">
       Klar! Gerne über Xing oder Github.
     </div>
