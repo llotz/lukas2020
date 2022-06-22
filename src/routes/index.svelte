@@ -84,13 +84,13 @@
       Grüß dich! Ich bin Lukas und das ist meine Webseite.
     </div>
 
-    <h3>Wer bist du?</h3>
+    <h3>Wer ich bin</h3>
     <div class="answer">
       Ich bin leidenschaftlicher Softwareentwickler, programmiere beruflich und
       ab und zu sitze ich auch an einem kleinen privaten Projekt. 
     </div>
 
-    <h3>Was programmierst du so?</h3>
+    <h3>Was ich beruflich treibe</h3>
     <div class="answer">
       <p>
         Beruflich bin ich hauptsächlich im .NET Umfeld mit C# zugange. Privat
@@ -105,7 +105,7 @@
       </p>
     </div>
     
-    <h3>Hast du allgemeine Ansichten zu deinem Beruf?</h3>
+    <h3>Mein Einblick in den Beruf</h3>
     <div class="answer">
       <p>
         Der Job als Softwareentwickler lässt sich schwer pauschalisieren, da bei mir
@@ -115,8 +115,8 @@
         um die Fähigkeit zu lernen nicht zu verlernen.
       </p>
       <p>
-        An der Arbeit versuche ich eher Sachen wie neue Fähigkeiten umzusetzen 
-        (Clean Code, Entwurfsmuster etc.) weil die Umgebung meistens eine Technologie
+        Beruflich versuche ich tendenziell Dinge, wie neue Fähigkeiten umzusetzen 
+        (Clean Code, Entwurfsmuster etc.), weil die Umgebung meistens eine Technologie
         vorgibt. Im Privaten teste ich gerne mal ein neues Framework oder eine mir 
         unbekannte Technologie oder Sprache. Mir macht mein Handwerk spaß.
       </p>
@@ -124,16 +124,18 @@
         Ja, Programmieren ist meiner bescheidenen Meinung nach ein Handwerk. 
         Man erkennt schnell, ob der Code von einem lustlosen Anfänger gerade 
         so zum laufen gebracht wurde oder ob er liebevoll und durchdacht, 
-        strukturiert und wohlüberlegt entwickelt wurde.
+        strukturiert und wohlüberlegt entwickelt wurde. Genau dort liegt mein
+        Interesse und meine Profession. Ich feile daran, meine Fähigkeiten stets
+        weiter auszubauen.
       </p>
     </div>
 
-    <h3>Und nun?</h3>
+    <h3>Willst du noch mehr wissen?</h3>
     <div class="answer">
       Schau in meinem Blog vorbei, dort gibts auch Sachen für Leute, die keine
       Ahnung von Softwareentwicklung haben. Technisches Verständnis, eine
-      Vorliebe für verschachtelte Sätze und eine Präferenz für schwarzen Humor
-      könnten Besuchern an der ein oder anderen Stelle helfen, die Webseite
+      Präferenz für verschachtelte Sätze und schwarzen Humor
+      könnten Besuchern an der ein oder anderen Stelle helfen, die Seite
       nicht direkt zu schließen.
     </div>
     
