@@ -130,7 +130,7 @@
       </p>
     </div>
 
-    <h3>Willst du noch mehr wissen?</h3>
+    <h3>Noch mehr über mich</h3>
     <div class="answer">
       Schau in meinem Blog vorbei, dort gibts auch Sachen für Leute, die keine
       Ahnung von Softwareentwicklung haben. Technisches Verständnis, eine
@@ -139,7 +139,7 @@
       nicht direkt zu schließen.
     </div>
     
-    <h3>Kann ich dich kontaktieren?</h3>
+    <h3Kontakt</h3>
     <div class="answer">
       Klar! Gerne über Xing oder Github.
     </div>
