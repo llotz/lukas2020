@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import marked from 'marked';
+import { marked } from 'marked';
 
 const getFileContent = () =>
 	fs.readFileSync(path.resolve('./src/resources/links.md'), 'utf-8');
