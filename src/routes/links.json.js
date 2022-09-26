@@ -7,8 +7,8 @@ const getFileContent = () =>
 
 export function get(req, res, next) {
 	const links = getFileContent();
-	const renderer = new marked.Renderer();
-	const html = marked(links, renderer);
+	//const renderer = new marked.Renderer();
+	const html = marked.parse(links);
 	if (html) {
 		res.writeHead(200, { 'Content-Type': 'application/json' });
 		res.end(JSON.stringify(html));
