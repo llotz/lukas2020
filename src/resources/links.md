@@ -88,6 +88,11 @@
 
 [EN] [Absolute Minimum about Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) / Ein sehr lesenswerter Artikel über Textkodierung und alles, was man darüber wissen sollte
 
+### Kult
+
+[EN] [Bastard Operator from Hell](http://bofharchive.com/) / Das Original: Die Geschichten des Bastard Operator from Hell.
+[DE] [Bastard Operatpr from Hell](https://www.gimizu.de/basta/) / Ein Teil der Geschichten des BOFH auf deutsch übersetzt.
+
 ### Sonstiges
 
 [DE] [handywerte](https://handywerte.de/) / Strahlungswerte verschiedener Smartphones
