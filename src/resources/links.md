@@ -84,6 +84,10 @@
 
 [DE] [greatestview](https://greatestview.de/) / Blog eines Webentwicklers. Schöner Schreibstil, find ich ganz interessant
 
+### Websites
+
+[EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple
+
 ### Wissen
 
 [EN] [Absolute Minimum about Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) / Ein sehr lesenswerter Artikel über Textkodierung und alles, was man darüber wissen sollte
