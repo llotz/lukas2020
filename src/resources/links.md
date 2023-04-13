@@ -88,6 +88,8 @@
 
 [EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple's Macintosh
 
+[EN] [nathan's toasty tech](http://toastytech.com/) / Die Websites eines Entwicklers mit sehr eigenen Ansichten über Technologie
+
 ### Wissen
 
 [EN] [Absolute Minimum about Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) / Ein sehr lesenswerter Artikel über Textkodierung und alles, was man darüber wissen sollte
