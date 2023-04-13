@@ -86,7 +86,7 @@
 
 ### Websites
 
-[EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple
+[EN] [folklore](https://www.folklore.org/) / Sammlung mit Anekdoten über die Entstehung und Entwicklung von Apple's Macintosh
 
 ### Wissen
 
